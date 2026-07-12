@@ -38,9 +38,13 @@ Shakya RideX is a modern web-based car rental platform that enables users to bro
 
 The complete Software Requirement Specification (SRS) is available in this repository.
 
-**PDF:** `srs_car_rent_neelabh.pdf`
+## 📄 Project Documentation
 
----
+The complete Software Requirement Specification (SRS) is available below.
+
+📥 **[Download the Project Report](./srs_car_rent_neelabh.pdf)**
+
+📖 **[View the PDF](./srs_car_rent_neelabh.pdf)**
 
 ## 👨‍💻 Developer
 
